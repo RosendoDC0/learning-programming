@@ -1,3 +1,3 @@
 ## Hola compañeritos
 
-Aqui vamos  trabar con el famoso leguaje de programacion Python
+Aqui vamos a trabajar con un lenguaje de programación que ha sido base para muchos lenguajes y programas de la actualidad
